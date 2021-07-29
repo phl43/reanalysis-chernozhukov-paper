@@ -1,0 +1,2 @@
+# reanalysis-chernozhukov-paper
+This is the code for the blog post I wrote on CSPI's website (https://cspicenter.org/blog/waronscience/lockdowns-econometrics-and-the-art-of-putting-lipstick-on-a-pig/) in which I reanalyze the results of Chernozhukov et al. (2021). It should run but, if you have any problem replicating the results I describe in the post, feel free to email me about it and I'll try to help you.
